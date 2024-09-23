@@ -6,9 +6,9 @@
         "UNLIMITED",
         "Filter",
         "Telegram Bot",
-        "TroJanzHEX"
+        "@advaitkumar_bot"
     ],
-    "website": "https://TroJanzHEX.me",
+    "website": "https://@advaitkumar_bot.me",
     "repository": "https://github.com/TroJanzHEX/Unlimited-Filter-Bot",
     "success_url": "https://telegram.dog/TroJanzHEX",
     "env": {
